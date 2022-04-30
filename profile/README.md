@@ -1,12 +1,20 @@
-## Hi there 👋
+## Hi there 👋 We're DAITA Technologies
 
-<!--
+<p> 
+    <a href="https://daita.tech" target="_blank"><img alt="DAITA Website"
+        src="https://img.shields.io/badge/website-2F3C51?style=for-the-badge&logo=Website&logoColor=white"/></a>
+    <a href="https://github.com/daita-technologies" target="_blank"><img alt="GitHub"
+        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/company/daita-technologies" target="_blank"><img alt="LinkedIn"
+        src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://medium.com/daita-technologies" target="_blank"><img alt="Medium"
+        src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
+    <a href="https://twitter.com/DAITA_Tech" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
-**Here are some ideas to get you started:**
+### About us 💯
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+By offering Swiss quality solutions, we offer a new quality standard for machine-learning applications in Europe. We work to significantly improve the existing lack of transparency in data annotation and structuring by providing clarity and control over the entire process.
+
+Looking for a job? 🤓 Apply here: contact@daita.tech.
