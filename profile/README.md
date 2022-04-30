@@ -12,9 +12,10 @@
     <a href="https://twitter.com/DAITA_Tech" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
+<img src="https://user-images.githubusercontent.com/25297591/166099329-a50b8634-bb2d-46ef-9472-7f11b4d2c2fd.png"/>
 
 ### About us 💯
 
 By offering Swiss quality solutions, we offer a new quality standard for machine-learning applications in Europe. We work to significantly improve the existing lack of transparency in data annotation and structuring by providing clarity and control over the entire process.
 
-Looking for a job? 🤓 Apply here: contact@daita.tech.
+Looking for a job? 🤓 Apply here: [contact@daita.tech](mailto:contact@daita.tech).
