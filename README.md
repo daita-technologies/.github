@@ -1,3 +1,3 @@
 # DAITA's Public Profile
 
-![full_logo_transparent_cropped](https://user-images.githubusercontent.com/25297591/166098297-5511d6c9-1814-464d-9dca-ef05c923d15b.png)
+![logo_transparent](https://user-images.githubusercontent.com/25297591/166098358-bfdf676d-41ad-43ae-a659-d60999efc796.png)
