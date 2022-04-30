@@ -1,2 +1,1 @@
-# .github
-DAITA's personal repository.
+# DAITA's Public Profile
