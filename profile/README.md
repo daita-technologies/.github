@@ -19,3 +19,5 @@
 By offering Swiss quality solutions, we offer a new quality standard for machine-learning applications in Europe. We work to significantly improve the existing lack of transparency in data annotation and structuring by providing clarity and control over the entire process.
 
 Looking for a job? 🤓 Apply here: [contact@daita.tech](mailto:contact@daita.tech).
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=daita-technologies.count_visitors)
