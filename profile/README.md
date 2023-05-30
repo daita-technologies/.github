@@ -15,6 +15,12 @@
 
 <img src="https://user-images.githubusercontent.com/25297591/166099329-a50b8634-bb2d-46ef-9472-7f11b4d2c2fd.png"/>
 
+---
+
+🫡 The DAITA Technologies platform has been sunsetted and the source code released under the [AGPL 3.0 license](https://www.gnu.org/licenses/agpl-3.0.en.html). Now it is in the hands of the others to do good with it. Always remember: **With power comes responsibility!**
+
+---
+
 ### About us 💯
 
 By offering Swiss quality solutions, we offer a new quality standard for machine-learning applications in Europe. We work to significantly improve the existing lack of transparency in data annotation and structuring by providing clarity and control over the entire process.
